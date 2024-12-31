@@ -1,6 +1,6 @@
 # Startups Deals and Offers by StartGround 🚀  
 
-Welcome to the **Startups Deals and Offers** repository, managed by **StartGround**! Our mission is to empower startups and founders with the resources, tools, and software they need to thrive, especially when building from the ground up.  
+Welcome to the **Startups Deals and Offers** repository, managed by [StartGround](https://www.startground.com)! Our mission is to empower startups and founders with the resources, tools, and software they need to thrive, especially when building from the ground up.  
 
 ## About StartGround  
 At StartGround, we believe in levelling the playing field for startups. That’s why we provide curated access to the best software deals, startup credits, and exclusive offers that can save you thousands while giving your business the boost it deserves.  
